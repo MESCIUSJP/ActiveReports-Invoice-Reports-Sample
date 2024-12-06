@@ -1,5 +1,5 @@
 ﻿<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition">
-	<dd:Name xmlns:dd="http://schemas.datadynamics.com/reporting/2005/02/reportdefinition">Invoice_gray</dd:Name>
+	<dd:Name xmlns:dd="http://schemas.datadynamics.com/reporting/2005/02/reportdefinition">Invoice_bluegray.rdlx</dd:Name>
 	<Body>
 		<Height>29.7cm</Height>
 		<ReportItems>
@@ -387,7 +387,7 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="TextBox12">
 															<Style>
-																<BackgroundColor>=IIF((RowNumber() Mod 2), "#E6E2DD", "Transparent")</BackgroundColor>
+																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
@@ -409,7 +409,7 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="TextBox13">
 															<Style>
-																<BackgroundColor>=IIF((RowNumber() Mod 2), "#E6E2DD", "Transparent")</BackgroundColor>
+																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>d</Format>
 																<PaddingBottom>2pt</PaddingBottom>
@@ -432,7 +432,7 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="TextBox14">
 															<Style>
-																<BackgroundColor>=IIF((RowNumber() Mod 2), "#E6E2DD", "Transparent")</BackgroundColor>
+																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
@@ -454,7 +454,7 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="TextBox20">
 															<Style>
-																<BackgroundColor>=IIF((RowNumber() Mod 2), "#E6E2DD", "Transparent")</BackgroundColor>
+																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>c2</Format>
 																<PaddingBottom>2pt</PaddingBottom>
@@ -478,7 +478,7 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="TextBox23">
 															<Style>
-																<BackgroundColor>=IIF((RowNumber() Mod 2), "#E6E2DD", "Transparent")</BackgroundColor>
+																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>d</Format>
 																<PaddingBottom>2pt</PaddingBottom>
@@ -502,7 +502,7 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="TextBox26">
 															<Style>
-																<BackgroundColor>=IIF((RowNumber() Mod 2), "#E6E2DD", "Transparent")</BackgroundColor>
+																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>c</Format>
 																<PaddingBottom>2pt</PaddingBottom>
