@@ -111,6 +111,8 @@
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
 									<Format>c</Format>
+									<Language>ja-JP</Language>
+									<NumeralLanguage>ja-JP</NumeralLanguage>
 									<PaddingBottom>2pt</PaddingBottom>
 									<PaddingLeft>2pt</PaddingLeft>
 									<PaddingRight>2pt</PaddingRight>
@@ -389,6 +391,8 @@ FAX：022-999-9876</Value>
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
+																<Language>ja-JP</Language>
+																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -412,6 +416,8 @@ FAX：022-999-9876</Value>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>d</Format>
+																<Language>ja-JP</Language>
+																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -434,6 +440,8 @@ FAX：022-999-9876</Value>
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
+																<Language>ja-JP</Language>
+																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -457,6 +465,8 @@ FAX：022-999-9876</Value>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>c2</Format>
+																<Language>ja-JP</Language>
+																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -481,6 +491,8 @@ FAX：022-999-9876</Value>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>d</Format>
+																<Language>ja-JP</Language>
+																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -505,6 +517,8 @@ FAX：022-999-9876</Value>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
 																<Format>c</Format>
+																<Language>ja-JP</Language>
+																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
